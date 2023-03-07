@@ -12,7 +12,7 @@
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
+<p style="font-size:6px;"><b><i>It's all neuro, it's all perception</i></b></p>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 
@@ -22,7 +22,7 @@
 - Currently Data Scientist Intern at Whitebox
 - I love to talk about Data, Maths, Movement & Health
 
-"It's all neuro"
+
 
 
 <br><br>

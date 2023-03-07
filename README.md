@@ -20,7 +20,9 @@
 
 - Data Science & Machine Learning Engineer
 - Currently Data Scientist Intern at Whitebox
-- I love to talk about Data, Maths, Physical Activity & Health
+- I love to talk about Data, Maths, Movement & Health
+
+"It's all neuro"
 
 
 <br><br>

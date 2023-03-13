@@ -19,7 +19,7 @@
 <br>
 
 - Data Science & Machine Learning Engineer
-- Currently Data Scientist Intern at Whitebox
+- Currently Data Scientist at Whitebox
 - I love to talk about Data, Maths, Movement & Health
 
 

@@ -21,7 +21,6 @@
 - Data Science & Machine Learning Engineer
 - Currently Data Scientist at Whitebox
 - I love to talk about Data, Maths, Movement & Health
-- Freelance Seller on fiverr **([Fiverr Account](https://www.fiverr.com/gorkaribera))**
 
 
 <br><br>

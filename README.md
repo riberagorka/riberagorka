@@ -19,8 +19,8 @@
 <br>
 
 - Data Science & Machine Learning Engineer
-- Currently Data Scientist at Whitebox
-- I love to talk about Data, Maths, Movement & Health
+- Currently Software Specialist at the Computing Center of the University of Cologne
+- I love to combine Data, Maths, Movement & Sports
 
 
 <br><br>
@@ -73,6 +73,7 @@
   
     ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
     ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+  
 
 </p>
 
